@@ -28,9 +28,7 @@
     ],
     "require": {
         "php": "^8.0.2",
-        "league/flysystem": "^3.2",
-        "microsoft/microsoft-graph": "^1.74",
-        "illuminate/support": "^9.0"
+        "microsoft/microsoft-graph": "^1.74"
     },
     "scripts": {
         "test": "vendor/bin/phpunit"
